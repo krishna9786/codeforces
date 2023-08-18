@@ -2,6 +2,7 @@
     Problem: Regular Bracket Sequences
     Explanation: Given a bracket sequence 𝑠, you need to find a regular bracket sequence 𝑡 of length 2𝑛 such that 𝑠 does not occur 
     in 𝑡 as a contiguous substring. Print "YES" followed by 𝑡 if such a sequence exists, else print "NO".
+
     
     Author: darkflameace97 
     
