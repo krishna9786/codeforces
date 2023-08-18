@@ -9,7 +9,7 @@
        a. Read the input bracket sequence 𝑠.
        b. Check if 𝑠 is already a regular bracket sequence of length 2𝑛, if yes, print "NO".
        c. If not, print "YES" and construct a regular bracket sequence 𝑡 by either:
-          i. Repeating '(' 𝑛 times followed by ')' 𝑛 times, or
+          i. Repeating '(' 𝑛 times followed by ')' 𝑛 times, or 
           ii. Repeating '()' 𝑛 times.
 */
 
